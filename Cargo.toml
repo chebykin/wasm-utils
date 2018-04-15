@@ -1,5 +1,5 @@
 [package]
-name = "pwasm-utils"
+name = "wasm-utils"
 version = "0.1.4"
 authors = ["Nikolay Volf <nikvolf@gmail.com>", "Sergey Pepyakin <s.pepyakin@gmail.com>"]
 license = "MIT/Apache-2.0"
